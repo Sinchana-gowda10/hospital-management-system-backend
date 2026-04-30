@@ -1,11 +1,6 @@
 # hospital-management-system-backend
 Spring Boot backend for Hospital Management System with REST APIs for patient, doctor, appointment, and billing management
 
-# Hospital Management System - Backend
-
-## 📌 Overview
-This project is a backend system for managing hospital operations, including patients, doctors, appointments, and billing. It is built using Spring Boot following a layered architecture.
-
 ## 🚀 Features
 - Patient Profile Management (CRUD operations)
 - Doctor Profile Management
