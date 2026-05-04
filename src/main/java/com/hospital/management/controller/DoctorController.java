@@ -1,9 +1,9 @@
 package com.hospital.management.controller;
 
 import com.hospital.management.entity.Doctor;
-import com.hospital.management.service.DoctorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import com.hospital.management.service.DoctorService;
 
 import java.util.List;
 
